@@ -1,6 +1,7 @@
 # Unique accounts
 root
 seccdc_black
+ec2-user
 
 # Admins
 elera.boss
