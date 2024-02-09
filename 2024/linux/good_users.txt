@@ -2,6 +2,7 @@
 root
 seccdc_black
 ec2-user
+dayman
 
 # Admins
 elera.boss
